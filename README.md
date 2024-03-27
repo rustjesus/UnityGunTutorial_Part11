@@ -16,7 +16,7 @@ Follow tutorials to set tags & layers as well as understand the project & code. 
 
 NOTE: 
 
-To fix the spraying reduce the spray amount to something like 0.25 
+To fix the spraying, reduce the spray amount to something like 0.25 
 in the FireHitscan() function, replace the old code at the start of the function with this:
 
         if (isAimingDownSight)
